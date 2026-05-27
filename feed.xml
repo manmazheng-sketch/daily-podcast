@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Kleya 每日新闻播报</title>
@@ -6,10 +6,9 @@
     <description>由Kleya AI助手每日为您精选的新闻资讯播报，涵盖国际、国内、科技、财经、体育等板块</description>
     <language>zh-cn</language>
     <itunes:author>Kleya</itunes:author>
-    <itunes:category text="News"/>
+    <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
-    <itunes:image href="https://manmazheng-sketch.github.io/daily-podcast/cover.jpg"/>
-    <lastBuildDate>Wed, 27 May 2026 00:20:00 +0800</lastBuildDate>
+    <itunes:image href="https://manmazheng-sketch.github.io/daily-podcast/cover.jpg" />
     <item>
       <title>2026-05-26 每日新闻播报（测试）</title>
       <link>https://manmazheng-sketch.github.io/daily-podcast/</link>
@@ -17,7 +16,7 @@
       <description>Kleya 每日新闻播报测试</description>
       <pubDate>Wed, 27 May 2026 00:20:00 +0800</pubDate>
       <itunes:duration>11</itunes:duration>
-      <enclosure url="https://manmazheng-sketch.github.io/daily-podcast/audio/daily-2026-05-27-test.mp3" length="84909" type="audio/mpeg"/>
+      <enclosure url="https://manmazheng-sketch.github.io/daily-podcast/audio/daily-2026-05-27-test.mp3" length="84909" type="audio/mpeg" />
     </item>
-  </channel>
+  <lastBuildDate>Wed, 27 May 2026 08:32:47 +0800</lastBuildDate><item><title>2026-05-27 每日新闻播报</title><link>https://manmazheng-sketch.github.io/daily-podcast</link><guid isPermaLink="false">kleya-daily-Wed, 27 Ma</guid><description>Kleya 每日新闻播报 - 2026-05-27</description><pubDate>Wed, 27 May 2026 08:32:47 +0800</pubDate><itunes:duration>674</itunes:duration><enclosure url="https://manmazheng-sketch.github.io/daily-podcast/audio/daily-2026-05-27.opus" length="5924725" type="audio/ogg" /></item></channel>
 </rss>
